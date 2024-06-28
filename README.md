@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>whaaaaaaaat</title>
+    <title> whaaaaaaaat </title>
   </head>
   <body>
   </body>
